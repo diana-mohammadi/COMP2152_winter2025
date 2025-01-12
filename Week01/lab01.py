@@ -1,5 +1,5 @@
 #Sample Coding Questions 01 Week
-#Diana Mohammdi
+#Diana Mohammadi
 #1)
 from array import *
 number = array("i", [1, 4, 7, 9])
